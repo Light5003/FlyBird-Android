@@ -1,6 +1,6 @@
 # FlyBitd-Android
-Realizing the classical game in Android Studio with JAVA
-It's the classical game "Fly Bird"/Flappy Bird" code, I caem true it in Android Studio with JAVA.
+Realizing the classical game in Android Studio with JAVA。
+It's the classical game "Fly Bird"/Flappy Bird" code, I came true it in Android Studio with JAVA.
 the main code locate in file:app
 I defaul closing the voice of fly and game over,if you want to open it,just cancel the annotation where in the GameView about MediaPlayer,
 but you should know the problem about it which could cause the Memory BUG and cant run game
